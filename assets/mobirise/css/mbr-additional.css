@@ -1,9 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-0 H3 {
   color: #ffffff;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box8-0 .mbr-section-title,
 #msg-box8-0 p {
