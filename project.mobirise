@@ -139,11 +139,15 @@
             "showButtons": false
           },
           "title": "ILLUMINA 2016",
-          "text": "The Disguised Market Research Festival of MDI, Gurgaon<br><br>Every puzzle has a solution, but when the puzzle is about delving into consumer psyche, it is a tough nut to crack. Illumina, the disguised market research festival of MDI, Gurgaon has been providing corporates with that unique opportunity to study consumer behavior.<br><br>Disguised as a traditional Diwali Mela, Illumina attracts a footfall in excess of 8000, thereby providing companies with a huge population base to pick the relevant sample for their research problems.<br><br>Incepted in 1997, Illumina enjoys an association with some of the biggest names in the industry including Pepsi, ITC, RPG Spencers, Airtel, SBI, Nokia, Dabur and many more.<br>",
+          "text": "The Disguised Market Research Festival of MDI, Gurgaon<br><br>Every puzzle has a solution, but when the puzzle is about delving into consumer psyche, it is a tough nut to crack. Illumina, the disguised market research festival of MDI, Gurgaon has been providing corporates with that unique opportunity to study consumer behavior.<br><br>Disguised as a traditional Diwali Mela, Illumina attracts a footfall in excess of 8000, thereby providing companies with a huge population base to pick the relevant sample for their research problems.<br><br>Incepted in 1997, Illumina enjoys an association with some of the biggest names in the industry including Pepsi, ITC, RPG Spencers, Airtel, SBI, Nokia, Dabur, Flipkart and many more.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
           "_styles": {
             "H1": {
-              "font-size": "8px"
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "center"
             }
           }
         },
@@ -188,7 +192,15 @@
           },
           "title": "MDI, GURGAON",
           "text": "MDI is one of the top B-Schools of the country. The institute integrates knowledge, research, industry experience and international exposure to offer comprehensive management programmes. MDI has the distinction of being the first internationally accredited Indian B-School. It was accredited by South Asian Quality Systems (SAQS) in 2005. The long term Education Programmes are accredited by Association of MBAs (AMBA), U.K.<br><br>The PG Programmes in Management offered by MDI are recognized and accredited by the All India Council for Technical Education (AICTE) New Delhi. Its PGPM has been awarded A Grade by the National Board of Accreditation of All India Council for Technical Education. Various surveys have consistently ranked MDI amongst the top B-Schools of the country.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>",
+          "_styles": {
+            "H1": {
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_name": "slider3",

@@ -66,7 +66,17 @@
   background-color: #ffffff;
 }
 #header1-1 H1 {
-  font-size: 8px;
+  font-size: 48px;
+}
+#header1-1 P {
+  font-size: 20px;
+  text-align: center;
+}
+#header1-2 H1 {
+  font-size: 48px;
+}
+#header1-2 P {
+  font-size: 20px;
 }
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
