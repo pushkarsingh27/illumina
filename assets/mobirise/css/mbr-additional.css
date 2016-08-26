@@ -78,6 +78,9 @@
 #header1-2 P {
   font-size: 20px;
 }
+#slider3-0 H2 {
+  text-align: center;
+}
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
