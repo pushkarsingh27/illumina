@@ -1,3 +1,18 @@
+#header3-0 .mbr-section-title,
+#header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-0 H3 {
+  color: #ffffff;
+}
+#msg-box8-0 .mbr-section-title,
+#msg-box8-0 p {
+  color: #fff;
+}
+#social-buttons4-0 .mbr-section-title,
+#social-buttons4-0 .btn-social {
+  color: #fff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
