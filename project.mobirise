@@ -24,6 +24,36 @@
       },
       "components": [
         {
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-26-at-7-2000x1250-81.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -100,7 +130,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-125x128-3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "https://mobirise.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -131,7 +161,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -150,23 +180,6 @@
               "text-align": "center"
             }
           }
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Illumina."
         },
         {
           "_name": "header1",
@@ -364,6 +377,23 @@
           }
         },
         {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Illumina."
+        },
+        {
           "_name": "contacts1",
           "_anchor": "contacts1-0",
           "_params": {
@@ -549,13 +579,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
