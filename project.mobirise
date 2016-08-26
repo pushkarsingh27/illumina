@@ -130,7 +130,7 @@
               "url": "https://www.youtube.com/embed/aEK_Du0PoXo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
@@ -140,7 +140,12 @@
           },
           "title": "ILLUMINA 2016",
           "text": "The Disguised Market Research Festival of MDI, Gurgaon<br><br>Every puzzle has a solution, but when the puzzle is about delving into consumer psyche, it is a tough nut to crack. Illumina, the disguised market research festival of MDI, Gurgaon has been providing corporates with that unique opportunity to study consumer behavior.<br><br>Disguised as a traditional Diwali Mela, Illumina attracts a footfall in excess of 8000, thereby providing companies with a huge population base to pick the relevant sample for their research problems.<br><br>Incepted in 1997, Illumina enjoys an association with some of the biggest names in the industry including Pepsi, ITC, RPG Spencers, Airtel, SBI, Nokia, Dabur and many more.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
+          "_styles": {
+            "H1": {
+              "font-size": "8px"
+            }
+          }
         },
         {
           "_name": "footer1",
