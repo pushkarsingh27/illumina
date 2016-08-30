@@ -74,7 +74,7 @@
             "showButton": false
           },
           "title": "",
-          "text": "<p><br></p><p><br></p>",
+          "text": "<p>\u001b\u001b</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -99,7 +99,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://www.facebook.com/mdi.illumina\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCMzMGsW3Lj51N2myXytfBNw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.instagram.com/Illumina_mdi/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://twitter.com/illumina_mdi\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>      "
         },
         {
           "_name": "buttons1",
@@ -204,6 +204,15 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            "H1": {
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -228,19 +237,18 @@
           },
           "title": "ILLUMINA 2016",
           "text": "The Disguised Market Research Festival of MDI, Gurgaon<br><br>Every puzzle has a solution, but when the puzzle is about delving into consumer psyche, it is a tough nut to crack. Illumina, the disguised market research festival of MDI, Gurgaon has been providing corporates with that unique opportunity to study consumer behavior.<br><br>Disguised as a traditional Diwali Mela, Illumina attracts a footfall in excess of 8000, thereby providing companies with a huge population base to pick the relevant sample for their research problems.<br><br>Incepted in 1997, Illumina enjoys an association with some of the biggest names in the industry including Pepsi, ITC, RPG Spencers, Airtel, SBI, Nokia, Dabur, Flipkart and many more.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
+          "_name": "header1",
           "_styles": {
             "H1": {
               "font-size": "48px"
             },
             "P": {
-              "font-size": "20px",
-              "text-align": "center"
+              "font-size": "20px"
             }
-          }
-        },
-        {
-          "_name": "header1",
+          },
           "_anchor": "header1-2",
           "_params": {
             "parallax": false,
@@ -263,18 +271,15 @@
           },
           "title": "MDI, GURGAON",
           "text": "MDI is one of the top B-Schools of the country. The institute integrates knowledge, research, industry experience and international exposure to offer comprehensive management programmes. MDI has the distinction of being the first internationally accredited Indian B-School. It was accredited by South Asian Quality Systems (SAQS) in 2005. The long term Education Programmes are accredited by Association of MBAs (AMBA), U.K.<br><br>The PG Programmes in Management offered by MDI are recognized and accredited by the All India Council for Technical Education (AICTE) New Delhi. Its PGPM has been awarded A Grade by the National Board of Accreditation of All India Council for Technical Education. Various surveys have consistently ranked MDI amongst the top B-Schools of the country.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>",
-          "_styles": {
-            "H1": {
-              "font-size": "48px"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://mdi.ac.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE ABOUT MDI</a>"
         },
         {
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -427,12 +432,7 @@
             "showBullets": false
           },
           "_anchor": "slider3-0",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_name": "footer1",
@@ -485,6 +485,67 @@
           "text1": "<strong>Address</strong><br>Management Development Institute,<br>Sukhrali, Gurgaon, 122007",
           "text2": "<strong>Contacts</strong><br>\nEmail: illumina@mdi.ac.in<br>\nPhone:&nbsp;+91 -8588905231<br>",
           "text3": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery3",
+          "_params": {
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4690-2000x3113-43-2000x3113-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4690-2000x3113-43.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Bakar",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf3857-2000x1333-9-2000x1333-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf3857-2000x1333-9.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "filter": true,
+            "bgColor": "#000000",
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-0",
+          "articleLayout": false
+        },
+        {
+          "twitterName": "illumina_mdi",
+          "twitterUrlValue": "https://twitter.com/illumina_mdi",
+          "twitterColor": "light",
+          "alias": "twitter-feed",
+          "_name": "twitter-feed-block",
+          "_anchor": "twitter-feed-block-0",
+          "_params": {
+            "twitterUrl": "https://twitter.com/illumina_mdi",
+            "twitterWidth": "450",
+            "twitterHeight": "890",
+            "darkTheme": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "innerText": "<a class=\"twitter-timeline\" href=\"https://twitter.com/illumina_mdi\" data-widget-id=\"670227744614187012\" data-screen-name=\"illumina_mdi\" data-theme=\"light\" width=\"450\" height=\"890\">Tweets by @illumina_mdi</a>"
         }
       ]
     },
